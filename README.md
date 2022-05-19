@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**ywvv/ywvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects:
+- :giraffe: Safari [[link](https://ywvv.github.io/Safari/)]
+- :hatched_chick: cssMemSlider [[link](https://ywvv.github.io/cssMemSlider/cssMemSlider/)]
+- :keyboard: Virtual Keyboard [[link](https://ywvv.github.io/virtual-keyboard/)]
+- :notes: Eco-sounds [[link](https://ywvv.github.io/JS30/eco-sounds/)]
+- :musical_note: Audio-player: [[link](https://ywvv.github.io/JS30/audio-player/)]
+- :vhs: Custom-video: [[link](https://ywvv.github.io/JS30/custom-video/)]
+- :ledger: Random-jokes: [[link](https://ywvv.github.io/JS30/random-jokes/)]
+- :sunrise: Image-galery: [[link](https://ywvv.github.io/JS30/image-galery/)]
+- :clapper: Movie-app: [[link](https://ywvv.github.io/JS30/movie-app/)]
+- :paw_prints: Memory-game: [[link](https://ywvv.github.io/JS30/memory-game/)]
