@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## Projects:
+- :man_technologist: [Job Listings](https://ywvv.github.io/job-listings/) (React/JS/CSS/Redux)
 - :amphora: [Vase Shop](https://ywvv.github.io/vase-shop/) (React/JS/SCSS)
 - :pager: [Momentum](https://ywvv.github.io/momentum/) (HTML/CSS/JS)
 - :dog: [Shelter](https://ywvv.github.io/shelter/) (HTML/CSS/JS)
