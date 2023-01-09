@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## Projects:
+- :globe_with_meridians: [Where is the world?](https://where-in-the-world-by1v32hm4-ywvv.vercel.app/) (React/JS/CSS/Redux)
 - :man_technologist: [Job Listings](https://ywvv.github.io/job-listings/) (React/JS/CSS/Redux)
 - :amphora: [Vase Shop](https://ywvv.github.io/vase-shop/) (React/JS/SCSS)
 - :pager: [Momentum](https://ywvv.github.io/momentum/) (HTML/CSS/JS)
