@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## Projects:
-- :globe_with_meridians: [Where is the world?](https://where-in-the-world-by1v32hm4-ywvv.vercel.app/) (React / JS / Redux / React Router / CSS / Styled Components)
-- :man_technologist: [Job Listings](https://ywvv.github.io/job-listings/) (React / JS / CSS / Redux)
+- :globe_with_meridians: [Where is the world?](https://where-in-the-world-kohl.vercel.app/) (React / JS / Redux / RTK / React Router / CSS / Styled Components)
+- :man_technologist: [Job Listings](https://ywvv.github.io/job-listings/) (React / JS / CSS / Redux / RTK)
 - :amphora: [Vase Shop](https://ywvv.github.io/vase-shop/) (React / JS / SCSS / React Router)
 - :pager: [Momentum](https://ywvv.github.io/momentum/) (HTML / CSS / JS)
 - :dog: [Shelter](https://ywvv.github.io/shelter/) (HTML / CSS / JS)
